@@ -29,6 +29,8 @@ li.inline-block {
     padding: 1%;
     vertical-align: top;
     font-weight: bold;
+    cursor: pointer;
+
 }
 
 li:hover {
@@ -147,10 +149,11 @@ button:hover {
 
 #PetBuddies {
     grid-area: PetBuddies;
-
-
-
     
+}
+
+.click {
+    cursor: pointer;
 }
 
 
